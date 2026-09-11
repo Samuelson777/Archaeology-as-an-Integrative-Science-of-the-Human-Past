@@ -245,7 +245,7 @@ GitHub is a project-hosting platform, not a peer-review service. For permanent s
 ## License
 
 - The manuscript and original figures are released under the **Creative Commons Attribution 4.0 International License**.
-- Supporting code, if later added, is released under the **MIT License**.
+- Supporting code is released under the **MIT License**.
 
 ---
 
